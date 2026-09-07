@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/JSTC3?style=flat-square&label=Followers&color=black" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=Profile+Views&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=JSTC3&style=flat-square&label=Profile+Views&color=black" />
   <img src="https://img.shields.io/badge/status-building-black?style=flat-square" />
 </p>
 
