@@ -1,5 +1,5 @@
 
-![banner](banner.png)
+![banner](github-banner.png)
 <h1 align="center">Hey, I'm Justice 👋</h1>
 <p align="center"><b>Cybersecurity Student • Software Developer • Builder</b></p>
 
