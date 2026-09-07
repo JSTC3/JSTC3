@@ -91,7 +91,7 @@ An RFC 959–compliant FTP server built from scratch.
 </td>
 <td width="50%">
 
-### 🔬 Cybersecurity Lab
+### 🔬 OWASP Juice Shop
 Security experiments, CTF writeups, and vulnerable apps used for learning.
 
 `Web Security` `CTF` `Burp Suite`
